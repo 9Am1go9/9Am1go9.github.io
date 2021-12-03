@@ -1,0 +1,79 @@
+<html>
+	<head><title>About other games</title>
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Comforter&family=Estonia&family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Anton&family=Comforter&family=Estonia&family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
+			
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Anton&family=Comforter&family=Estonia&family=Lora&family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
+			
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Anton&family=Comforter&family=Estonia&family=Lora&family=Playfair+Display&family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
+
+		<meta content="Other Games" name="description">
+		<meta content="Suon,Canada" name="key words">
+
+		<style>
+			body{
+				background-color: black;
+				background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b1/Rockstar_Games_Social_Club_Logo.png);
+				background-size: 10%;
+				background-attachment:fixed ;
+				background-repeat: no-repeat;
+				background-position: right top;
+			}
+		</style>
+			
+	</head>
+	<body>
+		<center><a href="https://www.rockstargames.com/zh/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/1920px-Rockstar_Games_Logo.svg.png" width="300px" height="300px"></a>
+		<center><p style="font-family:Anton; font-size:60px;color:white"><b>About other games</b></p><hr style="background-color:rgb(255, 173, 8); height:1.5px; border:none;">
+		
+		<center><p style="color:rgb(255, 173, 8);font-size: 2em; font-family: Comforter;background-color: black;"><i>Rockstar Games</i></p>
+
+		<img src="https://static.wikia.nocookie.net/gtawiki/images/7/76/CoverArt-GTAV.png/revision/latest?cb=20130826184215" width="450px" height="600px">
+		<img src="https://i.pinimg.com/564x/8c/13/27/8c132737305ecdce2b0c9ddbe555c8f8.jpg" width="450px" height="600px"><br>
+		<img src="https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/640/reddeadredemption.jpg" width="450px" height="600px"><hr style="background-color:rgb(255, 173, 8); height:1.5px; border:none;">
+
+		<table style="text-align:center;">
+		<tr>
+		<td><img src="https://images.ctfassets.net/wn7ipiv9ue5v/5GZ1anqssrIi3l0kFxpnRb/dc67a6f9f8e62d28acd64e28bf0fa091/GTAT_RGL_Trilogy_Logo_370x420_Deliverable.png" alt="This is a logo of GTA:The Trilogy-The Definitive Edition " width="300px" height="300px"></td>
+		</tr>
+		<tr>
+			<td style="text-shadow: 7px 5px 2px rgb(201, 178, 123);letter-spacing: 3.5px;line-height: 40px;font-family: Anton; letter-spacing:9px ;font-size: 35px;color:black;"><b>Selcet platform:<b></td>
+		</tr>
+		<tr>
+		<td><a href="https://store.rockstargames.com/en/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition"><img src="PC-re.PNG" alt="This is a pc logo" width="40px" height="40px"></a>
+		</tr>
+		<tr>
+		<td><a href="https://www.playstation.com/en-ca/games/grand-theft-auto-trilogy-definitive-edition/"><img src="PS-re.PNG" alt="This is a PS logo" width="40px" height="40px"></a></td>
+		</tr>
+		<tr>
+		<td><a href="https://www.xbox.com/en-CA/games/store/grand-theft-auto-the-trilogy-the-definitive-edition/9mxmjfnzmvwd"><img src="XBOX-re.PNG" alt="This is a XBOX logo" width="40px" height="40px"></a></td>
+		</tr>
+		<td><a href="https://www.walmart.ca/en/ip/grand-theft-auto-the-trilogy-the-definitive-edition-nintendo-switch/PRD4FQI1M3ZW79X?skuId=4FQI1M3ZW79X&offerId=4FQI1M3ZW79X&utm_medium=paid_search&utm_source=google&utm_campaign=always_on&cmpid=SEM_CA_83_WN0WUR23S1_71700000053641845_58700005332027295&utm_id=SEM_CA_83_WN0WUR23S1_71700000053641845_58700005332027295&gclsrc=aw.ds&&gclid=Cj0KCQiA-qGNBhD3ARIsAO_o7ymTK6z2J-P6ezM_Zd1jONPb6IGazQJ5zMQkaTH0eFhubR2Sq8cGf_saAukeEALw_wcB&gclsrc=aw.ds"><img src="https://cdn.freebiesupply.com/logos/large/2x/nintendo-switch-logo-black-and-white.png" alt="This is a Switch logo" width="40px" height="40px"></a></td>
+		</tr>
+		<tr>
+		<td><img src="https://s3.amazonaws.com/static.rogerebert.com/uploads/blog_post/primary_image/video-games/grand-theft-auto-trilogy-remastered-for-a-new-generation-that-may-not-want-it/image001.jpg" width="1200px" height="650px"></td>
+		</tr>
+	</table>
+	
+	
+
+		<p style="font-family:Lora;"><b>Three iconic cities, three epic stories</b>
+		<P style="color:#black;font-size:20px;background-color:rgb(207, 180, 118);"><b>Grand Theft Auto III, Grand Theft Auto: Vice City and Grand Theft Auto: San Andreas</b></p>
+		<p style="font-family:Lora;color:white; letter-spacing:4px;"><b>across-the-board enhancements including:</b></p> 
+
+		<p style="font-family:Lora;color:white; letter-spacing:4px;"><b>brilliant new lighting, environmental upgrades, high-resolution textures, increased draw distances, Grand Theft Auto V-style controls and targeting, and much more</b></p> 
+		<p style="font-family:Anton;color:white;text-shadow:2px 2px 2px rgb(201, 178, 123);font-size:23px;"><b>RELEASE DATE: November 11, 2021</b></p>
+		<iframe width="898" height="505" src="https://www.youtube.com/embed/D71cBUeAL58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><hr> 	 
+		</p>
+
+
+	</body>
+</html>
