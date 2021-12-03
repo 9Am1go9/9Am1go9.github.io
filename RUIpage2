@@ -27,6 +27,25 @@
 				background-repeat: no-repeat;
 				background-position: right top;
 			}
+			ul{
+				list-style-type: none;
+				margin: 0;
+				paddding: 0;
+			}
+			li{
+				text-align: center;
+			}
+			li a{
+				text-decoration: none;
+				margin-left: 5px;
+				margin-left: 5px;
+				color: white;
+
+			}
+			li a:hover{
+				color: rgb(207, 180, 118);
+				background-color: balck;
+			}
 		</style>
 			
 	</head>
@@ -73,6 +92,11 @@
 		<p style="font-family:Anton;color:white;text-shadow:2px 2px 2px rgb(201, 178, 123);font-size:23px;"><b>RELEASE DATE: November 11, 2021</b></p>
 		<iframe width="898" height="505" src="https://www.youtube.com/embed/D71cBUeAL58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><hr> 	 
 		</p>
+
+		<ul>
+		<li><a href="file:///C:/Users/ZR%20Lv/Desktop/ICS3u/Rui%20new.HTML"><p style="font-size:1.4em;font-family: Anton; line-height:3px"><b>Homepage</b></p></a></li>
+		<li><a href="file:///C:/Users/ZR%20Lv/Desktop/ICS3u/page%202.html"><p style="font-size:1.4em;font-family: Anton; "><b>Other Games</b></p></a></li>
+		<li><a href="file:///C:/Users/ZR%20Lv/Desktop/ICS3u/page%203.html"><p style="font-size:1.4em;font-family: Anton;line-height:3px"><b>About R*</b></p></a></li>
 
 
 	</body>
